@@ -78,7 +78,7 @@
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOURUSERNAME
+* GitHub: [https://github.com/YOURUSERNAME](https://github.com/arkadeepmondal-techie)
 * LinkedIn: https://www.linkedin.com/in/arkadeep-mondal-vst/
 
 ---
