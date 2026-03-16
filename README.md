@@ -1,8 +1,16 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Arkadeep%20Mondal&fontSize=40&fontColor=ffffff"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Arkadeep Mondal</h1>
 <h3 align="center">B.Tech CSE Student | Aspiring Software Developer</h3>
 
 <p align="center">
-🚀 Passionate about programming, problem solving and building real world projects.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Java+Developer;Web+Development+Learner;Open+Source+Enthusiast;Building+Projects+and+Learning+Daily" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -19,36 +27,43 @@
 
 ## 🛠️ Tech Stack
 
-### Programming
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-
-### Web Development
-
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge\&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME\&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Arkadeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME\&theme=tokyo-night)](https://github.com/YOURUSERNAME)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
 
 ---
 
@@ -57,6 +72,7 @@
 * 🔹 **DSA in Java**
 * 🔹 **Web Development Projects**
 * 🔹 **Mini Java Projects**
+* 🔹 **College Projects**
 
 ---
 
@@ -69,18 +85,8 @@
 
 ⭐ *“Learn Tech By Building It”*
 
+---
 
-<!--
-**arkadeepmondal-techie/arkadeepmondal-techie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg"/>
+</p>
