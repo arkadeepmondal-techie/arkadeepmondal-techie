@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arkadeep Mandal</h1>
+<h1 align="center">Hi 👋, I'm Arkadeep Mondal</h1>
 <h3 align="center">B.Tech CSE Student | Aspiring Software Developer</h3>
 
 <p align="center">
@@ -63,11 +63,11 @@
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/YOURUSERNAME
-* LinkedIn: Add later
+* LinkedIn: https://www.linkedin.com/in/arkadeep-mondal-vst/
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+⭐ *“Learn Tech By Building It”*
 
 
 <!--
