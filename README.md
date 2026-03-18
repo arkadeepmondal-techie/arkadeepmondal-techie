@@ -105,13 +105,13 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arkadeep-mondal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00fff0&title_color=ff00ff&icon_color=00fff0&text_color=c9d1d9&bg_color=0d0d1a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arkadeepmondal-techie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00fff0&title_color=ff00ff&icon_color=00fff0&text_color=c9d1d9&bg_color=0d0d1a"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkadeep-mondal&layout=compact&langs_count=8&theme=tokyonight&border_color=00fff0&title_color=ff00ff&text_color=c9d1d9&bg_color=0d0d1a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkadeepmondal-techie&layout=compact&langs_count=8&theme=tokyonight&border_color=00fff0&title_color=ff00ff&text_color=c9d1d9&bg_color=0d0d1a"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arkadeep-mondal&theme=tokyonight&border=00fff0&ring=ff00ff&fire=ff00ff&currStreakLabel=00fff0&background=0d0d1a" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arkadeepmondal-techie&theme=tokyonight&border=00fff0&ring=ff00ff&fire=ff00ff&currStreakLabel=00fff0&background=0d0d1a" />
 
 </div>
 
@@ -122,7 +122,7 @@
 
 ### 🌌 `NEURAL ACTIVITY GRAPH`
 
-[![Arkadeep's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arkadeep-mondal&bg_color=0d0d1a&color=00fff0&line=ff00ff&point=ffffff&area=true&hide_border=false&border_color=00fff0)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arkadeep's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arkadeepmondal-techie&bg_color=0d0d1a&color=00fff0&line=ff00ff&point=ffffff&area=true&hide_border=false&border_color=00fff0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -135,7 +135,7 @@
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arkadeep-mondal&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arkadeepmondal-techie&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -176,26 +176,26 @@ const arkadeep = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=arkadeep-mondal&label=👁️%20PROFILE%20SCANS&color=00fff0&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=arkadeepmondal-techie&label=👁️%20PROFILE%20SCANS&color=00fff0&style=for-the-badge" alt="Profile Views" />
 
 <br/><br/>
 
 <!-- CONNECT SECTION -->
 ### 📡 `OPEN COMMS CHANNEL`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arkadeep-mondal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arkadeep-mondal-vst)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/arkadeep-mondal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arkadeep-mondal)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arkadeep.mondal2029@vedamsot.org)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arkadeepmondal-techie)
 
 <br/>
 
 <!-- SNAKE GAME CONTRIBUTION GRAPH -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arkadeep-mondal/arkadeep-mondal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arkadeep-mondal/arkadeep-mondal/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arkadeep-mondal/arkadeep-mondal/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/>
